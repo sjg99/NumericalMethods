@@ -1,0 +1,11 @@
+﻿@model MetodosNumericos.Models.MainLoading
+@{
+
+}
+@using (Html.BeginForm("GetInData","Main",FormMethod.Post))
+{
+    @Html.EditorFor(model => model.InData, new { HtmlAttributes = new { @placeholder = "Amount of Data to enter" } })
+    <button type="submit">Next</button>
+}
+
+
