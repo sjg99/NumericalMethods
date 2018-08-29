@@ -1,0 +1,20 @@
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\bin\Debug\Numerical Methods.exe.config
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\bin\Debug\Numerical Methods.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\bin\Debug\Numerical Methods.pdb
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical Methods.csprojAssemblyReference.cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical_Methods.Form1.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical_Methods.Properties.Resources.resources
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical Methods.csproj.GenerateResource.cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical Methods.csproj.CoreCompileInputs.cache
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical Methods.exe
+C:\Users\USUARIO\AppData\Local\Temporary Projects\Numerical Methods\obj\Debug\Numerical Methods.pdb
+D:\Programacion\NumericalMethods\Numerical Methods\bin\Debug\Numerical Methods.exe.config
+D:\Programacion\NumericalMethods\Numerical Methods\bin\Debug\Numerical Methods.exe
+D:\Programacion\NumericalMethods\Numerical Methods\bin\Debug\Numerical Methods.pdb
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical Methods.csprojAssemblyReference.cache
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical_Methods.Form1.resources
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical_Methods.Properties.Resources.resources
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical Methods.csproj.GenerateResource.cache
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical Methods.csproj.CoreCompileInputs.cache
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical Methods.exe
+D:\Programacion\NumericalMethods\Numerical Methods\obj\Debug\Numerical Methods.pdb
